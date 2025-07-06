@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Hp/MLOPs/Survival_check/CODE/mlruns/0/cafb9e6e269649c9b208e7bb367ce4b5/artifacts
+end_time: 1751772888770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cafb9e6e269649c9b208e7bb367ce4b5
+run_name: amazing-vole-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751772868237
+status: 3
+tags: []
+user_id: Hp
